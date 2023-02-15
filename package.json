@@ -1,0 +1,10 @@
+{
+  "name": "bigbang-lib",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "sites/*"
+    ]
+  }
+}
